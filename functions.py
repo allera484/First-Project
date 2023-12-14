@@ -45,7 +45,7 @@ def total_sales_graph(x,y,df,label):
     sns.lineplot(x=x, y= y, data=df, label= label, marker='o')
     plt.title(f'Total Sales over time for {label} Genre')
     plt.xlabel(x)
-    plt.ylabel(y)
+    plt.ylabel(f'{y} (in millions)')
     plt.legend()
     plt.show()
 
@@ -56,8 +56,8 @@ def all_genres_vs_one_genre_graph(df,x,y,hue, label):
     plt.figure(figsize=(12, 8))
     sns.lineplot(x= x, y=y, hue=hue, data=df, marker='o')
     plt.title(f'Total Sales over time for {label} vs. Other Genres')
-    plt.xlabel('Release Year')
-    plt.ylabel('Total Sales')
+    plt.xlabel(x)
+    plt.ylabel(f'{y} (in millions)')
     plt.legend(title='Genre Category')
     plt.show()
 

@@ -12,7 +12,7 @@ The following methods were utilized:
 
 # Technologies
 For the purposes of this project, we used the following technologies:
-* Python
+* Python 3.11.5
 * Pandas
 * Matplotlib.pyplot 
 * Seaborn

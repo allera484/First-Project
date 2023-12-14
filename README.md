@@ -1,7 +1,7 @@
 # Growth of the Video Game Industry in the Past Four Decades
 Project status - Active 
 
-# Project objective
+# Project Objective
 The objective of this project is to determine whether the Adventure genre has performed differently compared to other genres in the video game industry over the last four decades.
 
 # Methods

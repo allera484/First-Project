@@ -23,9 +23,6 @@ Our dataset has 8 columns (Rank, Title, Publisher, Developer, Total Sales, Relea
 
 We obtained our dataset from the following source: https://www.kaggle.com/datasets/mikegillotti/video-game-sales?select=video+game+sales+titles.csv
 
-You can see the the corresponding presentation with the following link:
-https://docs.google.com/presentation/d/1qKkR5UweFq6rkbVkYJrT2dRX9UhbPxBY/edit?usp=sharing&ouid=103877068506336643478&rtpof=true&sd=true
-
 # Steps
 During our time working with the dataset, we found some new insights and decided to reformulate our original hypothesis to better utilize the information we had available.
 

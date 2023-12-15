@@ -27,7 +27,4 @@ We obtained our dataset from the following source: https://www.kaggle.com/datase
 During our time working with the dataset, we found some new insights and decided to reformulate our original hypothesis to better utilize the information we had available.
 
 # Conclusion
-After finishing the analysis, we can say that the Adventure genre has 
-
-# Contact
-linkedin, github, medium, etc
+After finishing the analysis, we can say that the Adventure genre has performed differently when compared to the other video game genres and that we can accept our hypothesis. 
